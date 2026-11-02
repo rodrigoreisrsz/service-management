@@ -14,8 +14,7 @@
   <path d="M462 305h30m-25-10h20m-25 20h20" stroke="#287F5E" stroke-width="4" stroke-linecap="round"/>
   <circle cx="744" cy="407" r="34" fill="#FFF"/>
   <path d="M732 415v-17l12-9 12 9v17h-24Zm7 0v-10h10v10" stroke="#D08C3F" stroke-width="3" stroke-linejoin="round"/>
-  <text x="88" y="92" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="29" font-weight="700">Nexo</text>
-  <text x="88" y="128" fill="#BFD4C6" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">GESTÃO DE SERVIÇOS</text>
+  <image x="58" y="16" width="150" height="150" href="senniorsf-desktop.png"/>
   <text x="88" y="584" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="39" font-weight="700">Sua operação,</text>
   <text x="88" y="635" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="39" font-weight="700">em uma nova perspectiva.</text>
   <text x="88" y="680" fill="#C5D8CD" font-family="Arial,sans-serif" font-size="17">Acompanhe serviços, receitas e gastos em um só lugar.</text>
