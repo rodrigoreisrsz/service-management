@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" fill="none">
+  <rect width="390" height="844" rx="34" fill="#F7F8F5"/>
+  <rect x="144" y="12" width="102" height="24" rx="12" fill="#192820"/>
+  <text x="28" y="29" fill="#192820" font-family="Arial,sans-serif" font-size="12" font-weight="700">9:41</text>
+  <path d="M325 22h15m-12-4h9m-6-4h3" stroke="#192820" stroke-width="2" stroke-linecap="round"/>
+  <rect x="348" y="15" width="20" height="12" rx="3" stroke="#192820" stroke-width="1.5"/><rect x="350" y="17" width="14" height="8" rx="1.5" fill="#192820"/>
+  <text x="24" y="77" fill="#20835E" font-family="Arial,sans-serif" font-size="17" font-weight="700">Nexo</text>
+  <circle cx="350" cy="67" r="20" fill="#E4F0E9"/>
+  <text x="350" y="72" text-anchor="middle" fill="#20835E" font-family="Arial,sans-serif" font-size="13" font-weight="700">AM</text>
+  <text x="24" y="122" fill="#192820" font-family="Arial,sans-serif" font-size="22" font-weight="700">Olá, Ana 👋</text>
+  <text x="24" y="145" fill="#758078" font-family="Arial,sans-serif" font-size="13">Aqui está o resumo da sua operação.</text>
+  <rect x="24" y="165" width="342" height="46" rx="12" fill="#FFF" stroke="#E4E9E3"/>
+  <text x="42" y="193" fill="#59675D" font-family="Arial,sans-serif" font-size="13">Visão geral</text>
+  <text x="346" y="193" text-anchor="end" fill="#34443A" font-family="Arial,sans-serif" font-size="13" font-weight="700">Outubro 2026  ▾</text>
+  <rect x="24" y="227" width="342" height="128" rx="18" fill="#183B2D"/>
+  <text x="44" y="258" fill="#C5D8CD" font-family="Arial,sans-serif" font-size="13">Receita total</text>
+  <text x="44" y="294" fill="#FFF" font-family="Arial,sans-serif" font-size="29" font-weight="700">R$ 48.520</text>
+  <rect x="44" y="313" width="84" height="24" rx="12" fill="#2C5D46"/>
+  <path d="m56 326 4-5 4 3 5-7" stroke="#9BE2B4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="74" y="329" fill="#C8F0D5" font-family="Arial,sans-serif" font-size="11" font-weight="700">+12,8%</text>
+  <circle cx="320" cy="290" r="26" fill="#26523E"/>
+  <path d="M309 294h22m-18-8h14m-11-7h8m-11 22h14" stroke="#B6E7C8" stroke-width="2" stroke-linecap="round"/>
+  <rect x="24" y="371" width="164" height="89" rx="16" fill="#FFF" stroke="#E4E9E3"/>
+  <circle cx="48" cy="397" r="12" fill="#EAF4EC"/><path d="m48 402 0-10m-4 4 4-4 4 4" stroke="#20835E" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="68" y="401" fill="#758078" font-family="Arial,sans-serif" font-size="12">Entradas</text>
+  <text x="40" y="439" fill="#192820" font-family="Arial,sans-serif" font-size="19" font-weight="700">R$ 48.520</text>
+  <rect x="202" y="371" width="164" height="89" rx="16" fill="#FFF" stroke="#E4E9E3"/>
+  <circle cx="226" cy="397" r="12" fill="#FFF0E8"/><path d="m226 392 0 10m-4-4 4 4 4-4" stroke="#D77645" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="246" y="401" fill="#758078" font-family="Arial,sans-serif" font-size="12">Gastos</text>
+  <text x="218" y="439" fill="#192820" font-family="Arial,sans-serif" font-size="19" font-weight="700">R$ 12.840</text>
+  <text x="24" y="499" fill="#192820" font-family="Arial,sans-serif" font-size="17" font-weight="700">Fluxo financeiro</text>
+  <text x="366" y="499" text-anchor="end" fill="#20835E" font-family="Arial,sans-serif" font-size="12" font-weight="700">Ver análise</text>
+  <rect x="24" y="515" width="342" height="156" rx="16" fill="#FFF" stroke="#E4E9E3"/>
+  <text x="44" y="541" fill="#758078" font-family="Arial,sans-serif" font-size="11">Receita e gastos por semana</text>
+  <path d="M48 625h294M48 597h294M48 569h294" stroke="#EDF0EC" stroke-width="1"/>
+  <path d="M67 611v14m38-29v29m38-45v45m38-36v36m38-56v56m38-48v48m38-63v63" stroke="#20835E" stroke-width="8" stroke-linecap="round"/>
+  <path d="M80 616v9m38-13v13m38-7v7m38-17v17m38-11v11m38-19v19m38-24v24" stroke="#E6A77E" stroke-width="4" stroke-linecap="round"/>
+  <text x="64" y="651" fill="#98A199" font-family="Arial,sans-serif" font-size="10">S1</text><text x="140" y="651" fill="#98A199" font-family="Arial,sans-serif" font-size="10">S2</text><text x="216" y="651" fill="#98A199" font-family="Arial,sans-serif" font-size="10">S3</text><text x="292" y="651" fill="#98A199" font-family="Arial,sans-serif" font-size="10">S4</text>
+  <text x="24" y="709" fill="#192820" font-family="Arial,sans-serif" font-size="17" font-weight="700">Serviços em destaque</text>
+  <text x="366" y="709" text-anchor="end" fill="#20835E" font-family="Arial,sans-serif" font-size="12" font-weight="700">Ver todos</text>
+  <rect x="24" y="724" width="342" height="50" rx="12" fill="#FFF" stroke="#E4E9E3"/>
+  <circle cx="50" cy="749" r="15" fill="#EAF4EC"/><path d="M44 749h12m-8-4h4m-5 8h6" stroke="#20835E" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="76" y="746" fill="#34443A" font-family="Arial,sans-serif" font-size="12" font-weight="700">Empréstimo conta de luz</text>
+  <text x="76" y="762" fill="#89968D" font-family="Arial,sans-serif" font-size="10">42 contratos</text>
+  <text x="350" y="754" text-anchor="end" fill="#20835E" font-family="Arial,sans-serif" font-size="12" font-weight="700">R$ 8.420</text>
+  <rect y="788" width="390" height="56" fill="#FFF"/>
+  <path d="M24 788h342" stroke="#E9EDE8"/>
+  <path d="M69 806h14m-12 0v12h10v-12m-8-3h6" stroke="#20835E" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="834" text-anchor="middle" fill="#20835E" font-family="Arial,sans-serif" font-size="9" font-weight="700">Início</text>
+  <path d="M160 808h14m-12 0v10m10-10v10m-7-14v4m-5 2h10" stroke="#9AA49C" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="167" y="834" text-anchor="middle" fill="#89968D" font-family="Arial,sans-serif" font-size="9">Serviços</text>
+  <path d="M258 805v13m-7-7h14m-12-8h10" stroke="#9AA49C" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="265" y="834" text-anchor="middle" fill="#89968D" font-family="Arial,sans-serif" font-size="9">Análises</text>
+  <circle cx="350" cy="811" r="6" stroke="#9AA49C" stroke-width="1.5"/><path d="M340 822c1-5 5-7 10-7s9 2 10 7" stroke="#9AA49C" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="350" y="834" text-anchor="middle" fill="#89968D" font-family="Arial,sans-serif" font-size="9">Perfil</text>
+</svg>

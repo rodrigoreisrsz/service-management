@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" fill="none">
+  <rect width="1440" height="1000" fill="#F7F8F5"/>
+  <rect x="0" y="0" width="720" height="1000" fill="#183B2D"/>
+  <circle cx="628" cy="210" r="220" fill="#26523E"/>
+  <circle cx="633" cy="210" r="162" fill="#2C5D46"/>
+  <circle cx="628" cy="210" r="106" fill="#3C7457"/>
+  <path d="M578 87h100a23 23 0 0 1 23 23v208a23 23 0 0 1-23 23H578a23 23 0 0 1-23-23V110a23 23 0 0 1 23-23Z" fill="#F8FAF7"/>
+  <rect x="591" y="103" width="74" height="9" rx="4.5" fill="#183B2D"/>
+  <circle cx="628" cy="200" r="34" fill="#D9EEE1"/>
+  <path d="m616 200 9 9 18-21" stroke="#20835E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="592" y="256" width="72" height="10" rx="5" fill="#DCE5DD"/>
+  <rect x="592" y="276" width="50" height="8" rx="4" fill="#DCE5DD"/>
+  <circle cx="477" cy="311" r="38" fill="#FFF"/>
+  <path d="M462 305h30m-25-10h20m-25 20h20" stroke="#287F5E" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="744" cy="407" r="34" fill="#FFF"/>
+  <path d="M732 415v-17l12-9 12 9v17h-24Zm7 0v-10h10v10" stroke="#D08C3F" stroke-width="3" stroke-linejoin="round"/>
+  <text x="88" y="92" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="29" font-weight="700">Nexo</text>
+  <text x="88" y="128" fill="#BFD4C6" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">GESTÃO DE SERVIÇOS</text>
+  <text x="88" y="584" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="39" font-weight="700">Sua operação,</text>
+  <text x="88" y="635" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="39" font-weight="700">em uma nova perspectiva.</text>
+  <text x="88" y="680" fill="#C5D8CD" font-family="Arial,sans-serif" font-size="17">Acompanhe serviços, receitas e gastos em um só lugar.</text>
+  <rect x="88" y="738" width="544" height="1" fill="#426653"/>
+  <circle cx="101" cy="783" r="5" fill="#78D7A0"/>
+  <text x="120" y="788" fill="#E0ECE4" font-family="Arial,sans-serif" font-size="14">Acesso exclusivo para administradores</text>
+  <text x="812" y="342" fill="#192820" font-family="Arial,sans-serif" font-size="32" font-weight="700">Bem-vindo de volta</text>
+  <text x="812" y="376" fill="#758078" font-family="Arial,sans-serif" font-size="16">Entre com suas credenciais de administrador.</text>
+  <text x="812" y="450" fill="#34443A" font-family="Arial,sans-serif" font-size="14" font-weight="700">E-mail</text>
+  <rect x="812" y="466" width="430" height="58" rx="12" fill="#FFFFFF" stroke="#DDE4DD"/>
+  <path d="M836 487h22v17h-22z" stroke="#89968D" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="m837 488 10 8 10-8" stroke="#89968D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="874" y="501" fill="#98A199" font-family="Arial,sans-serif" font-size="15">seuemail@empresa.com</text>
+  <text x="812" y="574" fill="#34443A" font-family="Arial,sans-serif" font-size="14" font-weight="700">Senha</text>
+  <rect x="812" y="590" width="430" height="58" rx="12" fill="#FFFFFF" stroke="#DDE4DD"/>
+  <path d="M837 613v-4a7 7 0 0 1 14 0v4m-17 0h20v16h-20z" stroke="#89968D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="875" y="626" fill="#98A199" font-family="Arial,sans-serif" font-size="18">••••••••••</text>
+  <path d="M1202 611c-6 0-11 5-13 8 2 4 7 8 13 8s11-4 13-8c-2-3-7-8-13-8Z" stroke="#89968D" stroke-width="1.7"/>
+  <circle cx="1202" cy="619" r="3" stroke="#89968D" stroke-width="1.7"/>
+  <text x="1242" y="677" text-anchor="end" fill="#20835E" font-family="Arial,sans-serif" font-size="14" font-weight="700">Esqueci minha senha</text>
+  <rect x="812" y="711" width="430" height="58" rx="13" fill="#20835E"/>
+  <text x="1027" y="747" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="16" font-weight="700">Entrar</text>
+  <text x="812" y="813" fill="#98A199" font-family="Arial,sans-serif" font-size="13">Ambiente seguro · Acesso restrito</text>
+</svg>
